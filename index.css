@@ -79,5 +79,114 @@ nav ul li{
     width: 475px;
     height: 400px;
 }
+/* pillar-section-start */
+.pillar-container{
+    display: flex;
+}
+.h1-class{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.pillar{
+   padding: 24px;
+   
+}
+.pillar-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.pillar-description{
+    font-size: 16px;
+    color:rgba(14, 14, 14, 0.7) ;
+}
+.pillars{
+    margin-bottom: 500px;
+    border: none;
+    
+}
+/* piller-end */
 
+/* vision-start */
+.vision-p{
+    text-align:left;
+    line-height: 24px;
+    margin-bottom: 32px;
+    text-decoration: rgba(14, 14, 14, 0.7);
+    
+}
+
+.vision-1{
+    padding: 24px;
+    margin-right: 24px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 10px;   
+ }
+ .vision-2{
+    padding: 24px;
+    margin-right: 24px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 10px;
+ }
+ .vision-3{
+    padding: 24px;
+    margin-right: 24px;
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 10px;
+}
+ .vision-title{
+     font-size: 20px;
+     font-weight: bold;
+ }
+ .vision-description{
+     font-size: 16px;
+     color:rgba(14, 14, 14, 0.7) ;
+     line-height:24px ;
+ }
+ .visions{
+    margin-bottom: 32px;
+ }
+ .btn-1{
+    font-size: 16px;
+    background-color:rgba(84, 144, 245, 1) ;
+    padding: 15px 11px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+ }
+ .btn-2{
+    font-size: 16px;
+    background-color:rgba(9, 161, 92, 1) ;
+    padding: 15px 11px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+ }
+ .btn-3{
+    font-size: 16px;
+    background-color:rgba(255, 194, 57, 1) ;
+    padding: 15px 11px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+ }
+ /* vision-end */
+
+ .dialouge{
+    background-image: url(assets/quote-bg.png );
+    background-repeat: no-repeat;
+ }
+ .dr-younus{
+    margin-top:32px;
+    padding: 48px 24px;
+ }
+ .younus-said{
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.8);
+ }
+ .dr{
+    font-weight:700px;
+ }
 
