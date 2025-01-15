@@ -186,7 +186,68 @@ nav ul li{
     line-height: 24px;
     color: rgba(14, 14, 14, 0.8);
  }
+ .younus-said-1{
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.6);
+
+ }
  .dr{
     font-weight:700px;
+    font-size: 20px;
  }
+
+ /* younus-end */
+ /* news-section start*/
+ .news{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+ }
+ .news-descriptiopn{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+ }
+ .satellite{
+    font-size: 32;
+    font-weight: bold;
+ }
+ .satellite-desc{
+    font-size: 16px;
+    line-height: 24px;
+ }
+ .news-container{
+    display: flex;
+    padding:48px;
+    justify-content: space-between;
+    margin-bottom: 24px;
+        
+ }
+ .bd-satellite{
+    border-radius: 24px;
+    position: left;
+ }
+ .btn-6{
+    background-color: #006A50;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 17px 34px;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+}
+ .bd-satellite-1{ 
+    border-radius: 24px;
+    position: absolute;
+    margin-left: 48px;
+}
+.news-container-1{
+    display: flex;
+}
+.news-content-1{
+    margin-left:500px;
+}
+      
+ 
+
+ 
 
